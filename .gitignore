@@ -361,3 +361,12 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Sandbox.dtsx
+/Package4 (1).dtsx
+/ETL project backup.dtsx
+/ETL project V2.dtsx
+/ETL project.dtsx
+/Package 2.dtsx
+/Package.dtsx
+/Package1.dtsx
+/Package2.dtsx
