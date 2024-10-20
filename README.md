@@ -20,7 +20,6 @@ This project involves the creation of a data warehouse to handle sales transacti
 - **Derived Columns**: It was a challenge to create a dedicated dimension table (`OrderDetailsDIM`) with derived columns that were calculated based on the fact table. To resolve this, we implemented a staging layer that allowed for the transformation and calculation of derived values before loading them into the final dimension table.
 
 ## Features
-## Features
 - **Star Schema Design**: The star schema enables fast query performance and ease of use for reporting and analytics.
 - **ETL Pipeline**: The ETL pipeline extracts data from Excel files, transforms it by cleansing and standardizing values, and loads it into the data warehouse.
 - **SQL Scripts**: A SQL script is used for testing purposes to drop foreign keys, truncate tables, and reassign the keys afterward, ensuring a clean slate for reloading data during the ETL process.
