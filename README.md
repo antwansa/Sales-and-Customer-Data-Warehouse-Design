@@ -1,7 +1,3 @@
-Here's a concise and structured README file for your project based on the details you've shared:
-
----
-
 # Sales Data Warehouse Project
 
 ## Overview
